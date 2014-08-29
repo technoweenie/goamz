@@ -8,9 +8,9 @@ import (
 
 	"time"
 
-	"github.com/mitchellh/goamz/aws"
-	"github.com/mitchellh/goamz/s3"
-	"github.com/mitchellh/goamz/testutil"
+	"github.com/technoweenie/goamz/aws"
+	"github.com/technoweenie/goamz/s3"
+	"github.com/technoweenie/goamz/testutil"
 	. "github.com/motain/gocheck"
 )
 
